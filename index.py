@@ -1,3 +1,5 @@
 print("iam leaving in amberpet")
 print("assalamualikum")
 print("hyderabad")
+print("amberpet")
+print("khairyat")
